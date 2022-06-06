@@ -1,6 +1,6 @@
 # :sparkles: Hello everyone! My name's Svetlana Lundina.
 - :computer: I'm currently studying at Ecole 42 in Moscow.
-- :sun_with_face: I am passionate about programming and discovering new interesting things in the computer world.
+- :boom: I am passionate about programming and discovering new interesting things in the computer world.
 
 ## My experience
   - C/C++
