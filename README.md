@@ -1,24 +1,24 @@
-- 👋 Hello everyone! My name's Svetlana Lundina.
-- I'm currently studying at Ecole 42 in Moscow.
-- I am passionate about programming and discovering new interesting things in the computer world.
+# :sparkles: Hello everyone! My name's Svetlana Lundina.
+- :computer: I'm currently studying at Ecole 42 in Moscow.
+- :sun_with_face: I am passionate about programming and discovering new interesting things in the computer world.
 
-My experience
-C/C++
-Bash, Unix, Make
-Java
-Python
-Ruby
+## My experience
+  - C/C++
+  - Bash, Unix, Make
+  - Java
+  - Python
+  - Ruby on Rails
 
-I’m currently learning
-Java
-Algorithms & Data Structures
-Data Science
-Docker
+## I’m currently learning
+  - Java
+  - Algorithms & Data Structures
+  - Data Science
+  - Docker
 
-I’m interested
-Backend
-DS/DE
-AI & Machine Learning
+## I’m interested
+  - Backend
+  - DS/DE
+  - AI & Machine Learning
 
 
 <!---
