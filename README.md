@@ -10,10 +10,8 @@
   - Ruby on Rails
 
 ## I’m currently learning
-  - Java
   - Algorithms & Data Structures
-  - Data Science
-  - Docker
+  - DS & ML
 
 ## I’m interested
   - Backend
