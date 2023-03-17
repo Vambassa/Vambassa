@@ -1,5 +1,5 @@
 # :sparkles: Hello everyone! My name's Svetlana Lundina.
-- :computer: I'm currently studying at Ecole 42 in Moscow and ADA & AI at HSE SPb.
+- :computer: I'm currently studying at Ecole 42 and ADA & AI at HSE SPb.
 - :boom: I am passionate about programming and discovering new interesting things in the computer world.
 
 ## My experience
